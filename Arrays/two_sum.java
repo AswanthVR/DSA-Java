@@ -23,7 +23,7 @@ public class two_sum {
     	int a[] = {1,2,4,5,3,6};
     	int target = 9;
     	int res[] = twoSum(a,target);
-    	System.out.println(res[0]+" "+res[1]);
+    	System.out.print(res[0]+" "+res[1]);
     	
     	
     }
